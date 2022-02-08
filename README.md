@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marco Aurélio</h1>
 
 <p align="left" style="background:yellow">
-<a href="www.linkedin.com/in/marcoaureliosf" target="_blank">
+<a href="https://www.linkedin.com/in/marcoaureliosf/" target="_blank">
   <img  width="120rem" align="center" src="https://img.shields.io/badge/-Marco Aurélio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
