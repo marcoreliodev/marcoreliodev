@@ -8,9 +8,11 @@
 </p>
 <br>
 
-- 🔥  Júnior Web Developer focused on learning programming better with Frontend.
+- 🔥 Frontend Web Developer focused on learning to code better.
 
-- 👨‍💻 Currently learning **ReactJS, Typescript, NextJS** and several other tools focused on Frontend Web.
+- 👨‍💻 Currently learning **ReactJS, Typescript, NextJS** and several other tools of Frontend Web Development.
+
+- 🧶 Coding since 2020.
 
 <br><br>
 
@@ -21,8 +23,14 @@
 ![TypeScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![React-Testing-Library](https://img.shields.io/badge/-ReactTestingLibrary-05122A?style=flat&logo=testing-library)&nbsp;
+
 
 <br><br>
 
