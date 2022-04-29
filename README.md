@@ -2,9 +2,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marco Aurélio</h1>
 
 <p align="left" style="background:yellow">
+  
 <a href="https://www.linkedin.com/in/marcoaureliosf/" target="_blank">
   <img  width="120rem" align="center" src="https://img.shields.io/badge/-Marco Aurélio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+  
+ <a href="mailto:marco007351@gmail.com" target="_blank">
+  <img  width="200rem" align="center" src="https://img.shields.io/badge/-marco007351@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+  
 </p>
 <br>
 
@@ -32,7 +38,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![React-Testing-Library](https://img.shields.io/badge/-ReactTestingLibrary-05122A?style=flat&logo=testing-library)&nbsp;
-
+![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
 
 <br><br>
 
