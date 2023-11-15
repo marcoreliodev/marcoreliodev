@@ -40,17 +40,6 @@
 ![React-Testing-Library](https://img.shields.io/badge/-ReactTestingLibrary-05122A?style=flat&logo=testing-library)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook)&nbsp;
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img align="left" width="500em" src="https://github-readme-stats.vercel.app/api?username=marcoaureliosf&show_icons=true&theme=vision-friendly-dark" alt="marcoaureliosf's stats"/> 
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaureliosf&layout=compact&theme=vision-friendly-dark" alt="marcoaureliosf's most languages"/>
-</p>
-
-<br>
-
 <!--
 **marcoaureliosf/marcoaureliosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
