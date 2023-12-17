@@ -1,12 +1,12 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcoaureliosf/4ac92977c57a06aba09a7519db5cb8ab/raw/8c73e873853e1da3cd9b5692e702e5cc5636db3a/gitcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marco Aurélio</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcoaureliosf/729b1ce91191b2a38ca80bc0a21ef484/raw/cbf28006dc96ebb2998d9845e6d02c286570a330/green-gitcard.svg"/>
+<h1 align="left">Hi, I'm Marco Aurélio</h1>
 
 <p align="left" style="background:yellow">
   
 <a href="https://www.linkedin.com/in/marcoaureliosf/" target="_blank">
   <img  width="120rem" align="center" src="https://img.shields.io/badge/-Marco Aurélio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-  
+
  <a href="mailto:marco007351@gmail.com" target="_blank">
   <img  width="200rem" align="center" src="https://img.shields.io/badge/-marco007351@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
@@ -16,7 +16,7 @@
 
 - 🔥 Frontend Web Developer focused on learning to code better.
 
-- 👨‍💻 Currently learning **ReactJS, Typescript, NextJS** and several other tools of Frontend Web Development.
+- ⏱ Currently learning **ReactJS, Typescript, NextJS** and several other tools of Frontend Web Development.
 
 - 🧶 Coding since 2020.
 
@@ -25,6 +25,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=node.js)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
