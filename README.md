@@ -1,8 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcoaureliosf/729b1ce91191b2a38ca80bc0a21ef484/raw/cbf28006dc96ebb2998d9845e6d02c286570a330/green-gitcard.svg"/>
 <h1 align="left">Hi, I'm Marco Aurélio</h1>
 
-<p align="left" style="background:yellow">
-  
+  <!--
 <a href="https://www.linkedin.com/in/marcoaureliosf/" target="_blank">
   <img  width="120rem" align="center" src="https://img.shields.io/badge/-Marco Aurélio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -10,13 +9,16 @@
  <a href="mailto:marco007351@gmail.com" target="_blank">
   <img  width="200rem" align="center" src="https://img.shields.io/badge/-marco007351@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
-  
-</p>
+-->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Aurélio-58A03A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaureliosf/)](https://www.linkedin.com/in/marcoaureliosf/) 
+[![Gmail Badge](https://img.shields.io/badge/-marco007351@gmail.com-58A03A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco007351@gmail.com)](mailto:marco007351@gmail.com)
+
 <br>
 
-- 🔥 Frontend Web Developer focused on learning to code better.
+- 🔥 Web Developer focused on learning to code better.
 
-- ⏱ Currently learning **ReactJS, Typescript, NextJS** and several other tools of Frontend Web Development.
+- ⏱ Currently, learning **React, Typescript, Next.js, Node.js** and several other Front-end and Back-end development tools.
 
 - 🧶 Coding since 2020.
 
@@ -25,7 +27,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
