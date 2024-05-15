@@ -16,9 +16,9 @@
 
 <br>
 
-- 🔥 Web Developer focused on learning to code better.
+- 🔥 Full Stack Web Developer focused on learning to code better.
 
-- ⏱ Currently, learning **React, Typescript, Next.js, Node.js** and several other Front-end and Back-end development tools.
+- ⏱ Currently, learning **Node.js, Typescript, ReactJs** and several other Front-end and Back-end development tools.
 
 - 🧶 Coding since 2020.
 
@@ -26,8 +26,10 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
