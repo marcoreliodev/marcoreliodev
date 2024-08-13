@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcoreliodev/265d98edfb7366069e2a1b7cfb982825/raw/d3ff8bfd3115d9cbb5f576de971e2abbfdd942b6/githubcard.svg"/>
-<h1 align="left">Hi, I'm Marco Aurélio</h1>
+<h1 align="left" >Hi, I'm Marco Aurélio</h1>
 
   <!--
 <a href="https://www.linkedin.com/in/marcoaureliosf/" target="_blank">
@@ -28,6 +28,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -37,8 +38,12 @@
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![React-Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=react-query)&nbsp;
+![React-Hook-Form](https://img.shields.io/badge/-ReactHookForm-05122A?style=flat&logo=react-hook-form)&nbsp;
+![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
