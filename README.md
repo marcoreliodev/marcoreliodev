@@ -14,18 +14,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Marco%20Aurélio-58A03A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaureliosf/)](https://www.linkedin.com/in/marcoaureliosf/) 
 [![Gmail Badge](https://img.shields.io/badge/-marco007351@gmail.com-58A03A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco007351@gmail.com)](mailto:marco007351@gmail.com)
 
-<br>
+<br/>
 
 - 🔥 Full Stack Web Developer focused on learning to code better.
 
-- ⏱ Currently, learning **Node.js, Typescript, ReactJs** and several other Front-end and Back-end development tools.
+- ⏱ Currently, learning **Node.js, Typescript, ReactJs, React Native** and several other development tools.
 
 - 🧶 Coding since 2020.
 
-<br><br>
+<br/>
 
 ## 🛠 &nbsp;Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,express,nextjs,mongodb,postgres,docker,prisma,aws,nginx,redis,redux,html,css,js,sass,styledcomponents,tailwindcss,jest,cypress,linux,git&perline=10)](https://skillicons.dev)
+
+<!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
@@ -55,7 +58,7 @@
 ![Swagger API](https://img.shields.io/badge/-SwaggerAPI-05122A?style=flat&logo=swagger)&nbsp;
 
 
-<!--
+
 **marcoaureliosf/marcoaureliosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
