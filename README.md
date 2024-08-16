@@ -26,7 +26,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,express,nextjs,mongodb,postgres,docker,prisma,aws,nginx,redis,redux,html,css,js,sass,styledcomponents,tailwindcss,jest,cypress,linux,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,express,nextjs,mongodb,postgres,docker,prisma,aws,nginx,redis,redux,html,css,js,sass,styledcomponents,tailwindcss,jest,cypress,linux,git&perline=8)](https://skillicons.dev)
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
