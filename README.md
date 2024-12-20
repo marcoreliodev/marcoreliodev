@@ -11,7 +11,7 @@
 </a>
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Aurélio-58A03A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaureliosf/)](https://www.linkedin.com/in/marcoaureliosf/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Aurélio-58A03A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoreliodev/)](https://www.linkedin.com/in/marcoreliodev/) 
 [![Gmail Badge](https://img.shields.io/badge/-marco007351@gmail.com-58A03A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco007351@gmail.com)](mailto:marco007351@gmail.com)
 
 <br/>
