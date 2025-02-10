@@ -9,9 +9,10 @@
  <a href="mailto:marco007351@gmail.com" target="_blank">
   <img  width="200rem" align="center" src="https://img.shields.io/badge/-marco007351@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Aurélio-58A03A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoreliodev/)](https://www.linkedin.com/in/marcoreliodev/) 
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Aurélio-58A03A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoreliodev/)](https://www.linkedin.com/in/marcoreliodev/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/marcoreliodev/)](https://www.linkedin.com/in/marcoreliodev/) 
 [![Gmail Badge](https://img.shields.io/badge/-marco007351@gmail.com-58A03A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco007351@gmail.com)](mailto:marco007351@gmail.com)
 
 <br/>
