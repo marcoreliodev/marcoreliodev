@@ -1,5 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcoreliodev/265d98edfb7366069e2a1b7cfb982825/raw/d3ff8bfd3115d9cbb5f576de971e2abbfdd942b6/githubcard.svg"/>
-<h1 align="left" >Hi, I'm Marco Aurélio</h1>
+
+### Hi, I'm Marco Aurélio
 
   <!--
 <a href="https://www.linkedin.com/in/marcoaureliosf/" target="_blank">
@@ -25,9 +26,9 @@
 
 <br/>
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,express,nextjs,mongodb,postgres,docker,prisma,aws,nginx,redis,redux,html,css,js,sass,styledcomponents,tailwindcss,jest,cypress,linux,git&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,express,nestjs,nextjs,mongodb,sqlite,postgres,docker,prisma,aws,nginx,redis,redux,html,css,js,sass,styledcomponents,tailwindcss,jest,cypress,linux,git&perline=7)](https://skillicons.dev)
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
