@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcoreliodev/265d98edfb7366069e2a1b7cfb982825/raw/d3ff8bfd3115d9cbb5f576de971e2abbfdd942b6/githubcard.svg"/>
 
-### Hi, I'm Marco Aurélio
+### Hey, I'm Marco Aurélio! 👋
 
   <!--
 <a href="https://www.linkedin.com/in/marcoaureliosf/" target="_blank">
